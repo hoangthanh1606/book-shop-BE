@@ -94,7 +94,7 @@
       "image": [
         "/images/product3.jpg"
       ],
-      "price": "89.000 VNĐ",
+      "price": 89,
       "countInStock": 5,
       "categoryId": 4,
       "publisherId": 2,
@@ -345,7 +345,7 @@
       "image": [
         "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/400x400/9df78eab33525d08d6e5fb8d27136e95/b/e/beinglove.jpg"
       ],
-      "price": "150.000 VNĐ",
+      "price": 150,
       "countInStock": 5,
       "categoryId": 3,
       "publisherId": 2,
@@ -365,7 +365,7 @@
         "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/400x400/9df78eab33525d08d6e5fb8d27136e95/t/r/trenduongbang.jpg",
         "https://cdn0.fahasa.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/r/tren_duong_bang_tai_ban_2017_2_2018_11_16_11_02_25.JPG"
       ],
-      "price": "227.000 VNĐ",
+      "price": 227,
       "countInStock": 5,
       "categoryId": 3,
       "publisherId": 2,
@@ -385,7 +385,7 @@
         "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/400x400/9df78eab33525d08d6e5fb8d27136e95/4/c/4ceb6ba3bd81614df8ff4c1411b11f59.jpg",
         "https://cdn0.fahasa.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/y/e/yeu_nhung_dieu_khong_hoan_hao_13_2018_09_12_11_14_40.jpg"
       ],
-      "price": "110.000 VNĐ",
+      "price": 110,
       "countInStock": 5,
       "categoryId": 3,
       "publisherId": 2,
@@ -469,7 +469,7 @@
       "image": [
         "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/400x400/9df78eab33525d08d6e5fb8d27136e95/i/m/image_226024.jpg"
       ],
-      "price": "130.000 VNĐ",
+      "price": 130,
       "countInStock": 5,
       "categoryId": 1,
       "publisherId": 1,
@@ -530,7 +530,7 @@
       "image": [
         "https://cdn0.fahasa.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/n/g/nghigiaulamgiau_110k-01_bia-1.jpg"
       ],
-      "price": "88.000 VNĐ",
+      "price": 88,
       "countInStock": 5,
       "categoryId": 2,
       "publisherId": 3,
